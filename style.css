@@ -94,7 +94,7 @@ h2 {
     line-height: 50px;
 }
 
-a.tbl-purple1 {
+a.tbl-biru {
     background: hsl(263, 79%, 54%);
     border-radius: 20px;
     -webkit-border-radius: 20px;
@@ -108,13 +108,13 @@ a.tbl-purple1 {
     font-weight: bold;
 }
 
-a.tbl-purple1:hover {
+a.tbl-biru:hover {
     background-color: #FFFFFF;
     text-decoration: none;
     color: hsl(263, 79%, 54%);
 }
 
-a.tbl-purple2 {
+a.tbl-pink {
     background: hsl(263, 79%, 54%);
     border-radius: 20px;
     -webkit-border-radius: 20px;
@@ -128,7 +128,7 @@ a.tbl-purple2 {
     font-weight: bold;
 }
 
-a.tbl-purple2:hover {
+a.tbl-pink:hover {
     background-color: #FFFFFF;
     text-decoration: none;
     color: hsl(263, 79%, 54%);
