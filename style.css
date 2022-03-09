@@ -44,6 +44,7 @@ nav {
     position: sticky;
     background: #FFFFFF;
     z-index: 1;
+    top: 0;
     /* border-bottom: 1px solid #364f6b; */
 }
 
