@@ -110,6 +110,7 @@ a.tbl-biru {
     color: #FFFFFF;
     cursor: pointer;
     font-weight: bold;
+    text-decoration: none;
 }
 
 a.tbl-biru:hover {
@@ -130,6 +131,7 @@ a.tbl-pink {
     color: #FFFFFF;
     cursor: pointer;
     font-weight: bold;
+    text-decoration: none;
 }
 
 a.tbl-pink:hover {
