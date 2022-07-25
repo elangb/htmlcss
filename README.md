@@ -1,5 +1,6 @@
-# 👻 Responsive HTML&CSS Basic
-## 👻 Responsive HTML&CSS Basic
+# 🧑‍💻 Responsive HTML&CSS Basic
+## 🧑‍💻 Responsive HTML&CSS Basic
+ Responsive HTML&CSS Basic
 
 - Responsive HTML&CSS Basic
 - Contains CSS animations.
